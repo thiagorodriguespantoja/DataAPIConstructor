@@ -1,5 +1,5 @@
-Descrição do Projeto: DBApiCreato
-Nome do Projeto: DBApiCreator
+# Descrição do Projeto: DBApiCreato
+# Nome do Projeto: DBApiCreator
 
 Descrição: DBApiCreator é uma aplicação Node.js projetada para fornecer uma API robusta e eficiente que interage com um banco de dados MySQL. Este projeto tem como objetivo facilitar a criação, leitura, atualização e exclusão de registros de usuários através de endpoints RESTful. A API foi construída com foco na modularidade, testabilidade e facilidade de uso, tornando-se uma solução ideal para ser consumida por front-ends modernos, como aplicações Flutter.
 

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "DBApiCreator", "DBApiCreator\DBApiCreator.njsproj", "{C3486090-A681-42B0-93DC-7824B1EDEB67}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3486090-A681-42B0-93DC-7824B1EDEB67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3486090-A681-42B0-93DC-7824B1EDEB67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3486090-A681-42B0-93DC-7824B1EDEB67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3486090-A681-42B0-93DC-7824B1EDEB67}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {87D00E54-25DF-403B-9820-95CC092C50E3}
+	EndGlobalSection
+EndGlobal
